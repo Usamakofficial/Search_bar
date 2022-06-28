@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    margin-top: 50px;
+}
+.container{
+    border: 1px solid black;
+    margin-left: 20px;
+    background-color: aliceblue;
+}
+.heading{
+    margin-top: 50px;
+    color: dimgrey;
+    margin-left: 290px;
+    font-size: 30px;
+}
+#myinput{
+    width: 820px;
+    padding-top: 10px;
+    font-size: 30px;
+    margin-left: 145px;
+    background-color: whitesmoke;
+}
+#mytable{
+    background-color: whitesmoke;
+    margin-top: 10px;
+    border-color: black;
+    font-size: 25px;
+    width: 1170px;
+    border: 2px solid black;
+}
+tr{
+    text-align: center;
+}
+td{
+    padding: 10px 0;
+    border: 2px solid black;
+}
